@@ -88,9 +88,9 @@
 <h2>🌱 Currently Working On</h2>
 
 <ul>
-<li>Improving DSA problem-solving skills</li>
-<li>Building full-stack applications using React & Node.js</li>
-<li>Learning system design fundamentals</li>
+<li>Diving into AI & Machine Learning</li>
+<li>Strengthening DSA and analytical thinking</li>
+<li>Building intelligent, real-world projects</li>
 </ul>
 
 <hr>
@@ -98,8 +98,8 @@
 <h2>🌐 Connect With Me</h2>
 
 <ul>
-<li>💼 <a href="https://linkedin.com/in/ha-re-ram">LinkedIn</a></li>
-<li>🐙 <a href="https://github.com/ha-re-ram">GitHub</a></li>
+<li>💼 LinkedIn: <a href="https://linkedin.com/in/mahboob-alam01" target="_blank">mahboob-alam01</a></li>
+<!-- <li>🐙 <a href="https://github.com/ha-re-ram">GitHub</a></li> -->
 </ul>
 
 <hr>
