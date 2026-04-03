@@ -114,4 +114,4 @@
 
 <hr>
 
-<p><b>⭐️ “Consistency and clean code always win.”</b></p>
+<p><b>⭐️ “Clean code. Clear thinking. Consistent growth.”</b></p>
