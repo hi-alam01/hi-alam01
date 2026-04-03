@@ -1,21 +1,117 @@
-<h1 align="center">Hi 👋, I'm MahboobAlam</h1>
-<h3 align="center">A passionate step toward smarter solutions.</h3>
+<h1>Hi there 👋, I'm Mahboob Alam</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hi-alam01&label=Profile%20views&color=0e75b6&style=flat" alt="hi-alam01" /> </p>
+<p>🎓 Electrical and Electronics Engineering Student<br>
+💻 Strong Interest in Data Science and Machine Learning<br>
+🚀 Dedicated to solving problems and developing impactful projects</p>
 
-- 🔭 I’m currently working on **AI-Driven Anti-Poaching Monitoring Platform**
+<hr>
 
-- 🌱 I’m currently learning **C++, Python, Numpy, Pandas**
+<h2>👨‍💻 About Me</h2>
 
-- 📫 How to reach me **hi.alam1740@gmail.com**
+<ul>
+<li>🎓 <b>Discipline:</b> Electrical and Electronics Engineering — KPR Institute of Engineering and Technology</li>
+<li>💡 Enthusiastic about developing practical projects to strengthen technical skills</li>
+<li>🧠 Committed to clean coding practices and efficient problem-solving</b></li>
+</ul>
 
-- ⚡ Fun fact **I think I'm crazy**
+<hr>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/mahboob-alam07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/mahboob-alam07" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/share/1gbqfwtnsr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1gbqfwtnsr/" height="30" width="40" /></a>
-</p>
+<h2>🚀 Interests</h2>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+<ul>
+<li>🤖 Exploring Artificial Intelligence & Machine Learning</li>
+<li>📊 Problem Solving with Data Structures & Algorithms</li>
+<li>⚙️ Building backend logic using Python</li>
+<li>🧩 System Design Learner</li>
+</ul>
+
+<hr>
+
+<h2>🛠️ Tech Stack</h2>
+
+<ul>
+<li>💻 🐍 Python for Machine Learning</li>
+<li>🌐 C++</li>
+<li>🎨 HTML & CSS</li>
+<li>🔧 Managing code with Git & GitHub</li>
+</ul>
+
+<hr>
+
+<!-- <h2>📌 Featured Projects</h2>
+
+<h3>🛒 E-commerce Website</h3>
+<p>Responsive UI with product listings and cart functionality<br>
+<a href="https://github.com/ha-re-ram/E-commerce-website">View Project</a></p>
+
+<hr>
+
+<h3>🌦️ Weather App</h3>
+<p>Fetches real-time weather data using OpenWeatherMap API<br>
+<a href="https://github.com/ha-re-ram/weatherapp">View Project</a></p>
+
+<hr>
+
+<h3>📈 Habit-Forge</h3>
+<p>Simple productivity habit tracker prototype<br>
+<a href="https://github.com/ha-re-ram/Habit-Forge">View Project</a></p>
+
+<hr> -->
+
+<!-- <h3>🤖 AIML-Lab</h3>
+<p>Python notebooks for AI/ML experiments<br>
+<a href="https://github.com/ha-re-ram/AIML-Lab">View Project</a></p>
+
+<hr>
+
+<h3>💻 OS-Lab</h3>
+<p>Operating Systems lab programs (C + documentation)<br>
+<a href="https://github.com/ha-re-ram/OS-Lab">View Project</a></p>
+
+<hr>
+
+<h3>⚙️ OS-Project</h3>
+<p>Virtual memory GUI, custom shell, and OS concepts<br>
+<a href="https://github.com/ha-re-ram/OS-Project">View Project</a></p>
+
+<hr> -->
+
+<h2>📊 Coding Practice</h2>
+
+<ul>
+<li>🔥 LeetCode: <a href="https:[//leetcode.com/u/23cs054/](https://leetcode.com/u/MahboobAlam/)">Profile</a></li>
+<li>🧠 HackerRank: <a href="https://www.hackerrank.com/profile/ha_re_ram">Profile</a></li>
+</ul>
+
+<hr>
+
+<h2>🌱 Currently Working On</h2>
+
+<ul>
+<li>Improving DSA problem-solving skills</li>
+<li>Building full-stack applications using React & Node.js</li>
+<li>Learning system design fundamentals</li>
+</ul>
+
+<hr>
+
+<h2>🌐 Connect With Me</h2>
+
+<ul>
+<li>💼 <a href="https://linkedin.com/in/ha-re-ram">LinkedIn</a></li>
+<li>🐙 <a href="https://github.com/ha-re-ram">GitHub</a></li>
+</ul>
+
+<hr>
+
+<h2>📫 Contact</h2>
+
+<ul>
+<li>📧 Personal Email: hareramkushwaha054@gmail.com</li>
+<li>🎓 College Email: 23cs054@kpriet.ac.in</li>
+<li>📱 Phone / WhatsApp: +91 8340318593</li>
+</ul>
+
+<hr>
+
+<p><b>⭐️ “Consistency and clean code always win.”</b></p>
