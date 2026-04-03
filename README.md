@@ -107,9 +107,9 @@
 <h2>📫 Contact</h2>
 
 <ul>
-<li>📧 Personal Email: hareramkushwaha054@gmail.com</li>
-<li>🎓 College Email: 23cs054@kpriet.ac.in</li>
-<li>📱 Phone / WhatsApp: +91 8340318593</li>
+<li>📧 Personal: <a href="mailto:hi.alam1740@gmail.com">hi.alam1740@gmail.com</a></li>
+<li>🎓 Academic: <a href="mailto:23ee028@kpriet.ac.in">23ee028@kpriet.ac.in</a></li>
+<li>📱 Contact: <a href="tel:+919651979519">Call / WhatsApp</a></li>
 </ul>
 
 <hr>
