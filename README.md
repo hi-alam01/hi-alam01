@@ -79,8 +79,8 @@
 <h2>📊 Coding Practice</h2>
 
 <ul>
-<li>🔥 LeetCode: <a href="https:[//leetcode.com/u/23cs054/](https://leetcode.com/u/MahboobAlam/)">Profile</a></li>
-<li>🧠 HackerRank: <a href="https://www.hackerrank.com/profile/ha_re_ram">Profile</a></li>
+<li>🔥 LeetCode (Problem Solving): <a href="https://leetcode.com/u/MahboobAlam/" target="_blank">MahboobAlam</a></li>
+<li>🧠 HackerRank (Coding Practice): <a href="https://www.hackerrank.com/profile/hi_alam1740" target="_blank">hi_alam1740</a></li>
 </ul>
 
 <hr>
