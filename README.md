@@ -1,117 +1,105 @@
-<h1>Hi there 👋, I'm Mahboob Alam</h1>
+<div align="center">
 
-<p>🎓 Electrical and Electronics Engineering Student<br>
-💻 Strong Interest in Data Science and Machine Learning<br>
-🚀 Dedicated to solving problems and developing impactful projects</p>
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=200&section=header&text=Mahboob%20Alam&fontSize=50&fontColor=58a6ff&fontAlignY=38&desc=EEE%20Student%20%7C%20AI%2FML%20%7C%20Embedded%20Systems&descSize=16&descAlignY=58&descColor=8b949e" />
 
-<hr>
+<!-- TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+at+the+intersection+of+AI+%26+Embedded;EEE+Student+%40+KPRIET%2C+Tamil+Nadu;%22Clean+code.+Clear+thinking.+Consistent+growth.%22)](https://git.io/typing-svg)
 
-<h2>👨‍💻 About Me</h2>
+<!-- AVAILABILITY BADGE -->
+![Status](https://img.shields.io/badge/Status-Available%20for%20Opportunities-3fb950?style=flat-square&logo=statuspage&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Tamil%20Nadu%2C%20India-58a6ff?style=flat-square&logo=googlemaps&logoColor=white)
+<!-- ![Goal](https://img.shields.io/badge/Goal-Japan%20Placement%202026-d29922?style=flat-square&logo=target&logoColor=white) -->
 
-<ul>
-<li>🎓 <b>Discipline:</b> Electrical and Electronics Engineering — KPR Institute of Engineering and Technology</li>
-<li>💡 Enthusiastic about developing practical projects to strengthen technical skills</li>
-<li>🧠 Committed to clean coding practices and efficient problem-solving</b></li>
-</ul>
+</div>
 
-<hr>
+---
 
-<h2>🚀 Interests</h2>
+## 👨‍💻 About Me
 
-<ul>
-<li>🤖 Exploring Artificial Intelligence & Machine Learning</li>
-<li>📊 Problem Solving with Data Structures & Algorithms</li>
-<li>⚙️ Building backend logic using Python</li>
-<li>🧩 System Design Learner</li>
-</ul>
+```yaml
+Name       : Mahboob Alam
+Education  : B.E. Electrical & Electronics Engineering
+College    : KPR Institute of Engineering and Technology, Tamil Nadu
+Year       : 3rd Year (2023 Batch)
+Interests  : [ AI/ML, Embedded Systems, DSA, Web Development ]
+languages  : [ Python, C++, HTML, CSS ]
+```
 
-<hr>
+---
 
-<h2>🛠️ Tech Stack</h2>
+## 🛠️ Tech Stack
 
-<ul>
-<li>💻 🐍 Python for Machine Learning</li>
-<li>🌐 C++</li>
-<li>🎨 HTML & CSS</li>
-<li>🔧 Managing code with Git & GitHub</li>
-</ul>
+<div align="center">
 
-<hr>
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=58a6ff)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=58a6ff)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=58a6ff)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=58a6ff)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=58a6ff)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=58a6ff)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=58a6ff)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=58a6ff)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=58a6ff)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff)
 
-<!-- <h2>📌 Featured Projects</h2>
+</div>
 
-<h3>🛒 E-commerce Website</h3>
-<p>Responsive UI with product listings and cart functionality<br>
-<a href="https://github.com/ha-re-ram/E-commerce-website">View Project</a></p>
+---
+<!--
+## 🚀 Featured Projects
 
-<hr>
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🪖 **Smart Safety Helmet** | AI-powered industrial helmet with gas, temp, fire & fall detection — Proteus simulation | `Embedded` `C++` `AI` `Proteus` |
+| 🤟 **Sign Language Detector** | Real-time webcam sign detection with letter output and text-to-speech | `Python` `Computer Vision` `TTS` |
+| 📧 **Spam Mail Detector** | ML classifier pipeline using NLP feature engineering for accurate spam detection | `Python` `ML` `NLP` |
 
-<h3>🌦️ Weather App</h3>
-<p>Fetches real-time weather data using OpenWeatherMap API<br>
-<a href="https://github.com/ha-re-ram/weatherapp">View Project</a></p>
+---
+-->
+## 📊 GitHub Stats
 
-<hr>
+<div align="center">
 
-<h3>📈 Habit-Forge</h3>
-<p>Simple productivity habit tracker prototype<br>
-<a href="https://github.com/ha-re-ram/Habit-Forge">View Project</a></p>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=hi-alam01&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hi-alam01&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
 
-<hr> -->
+</div>
 
-<!-- <h3>🤖 AIML-Lab</h3>
-<p>Python notebooks for AI/ML experiments<br>
-<a href="https://github.com/ha-re-ram/AIML-Lab">View Project</a></p>
+<div align="center">
 
-<hr>
+[![GitHub Streak](https://streak-stats.demolab.com?user=hi-alam01&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://git.io/streak-stats)
 
-<h3>💻 OS-Lab</h3>
-<p>Operating Systems lab programs (C + documentation)<br>
-<a href="https://github.com/ha-re-ram/OS-Lab">View Project</a></p>
+</div>
 
-<hr>
+---
 
-<h3>⚙️ OS-Project</h3>
-<p>Virtual memory GUI, custom shell, and OS concepts<br>
-<a href="https://github.com/ha-re-ram/OS-Project">View Project</a></p>
+## 🌱 Currently Working On
 
-<hr> -->
+<!--- `→` Diving into AI & Machine Learning -->
+- `→` Deepening AI & Machine Learning skills
+- `→` Strengthening DSA and analytical thinking
+- `→` Building intelligent, real-world projects
 
-<h2>📊 Coding Practice</h2>
+---
 
-<ul>
-<li>🔥 LeetCode (Problem Solving): <a href="https://leetcode.com/u/MahboobAlam/" target="_blank">MahboobAlam</a></li>
-<li>🧠 HackerRank (Coding Practice): <a href="https://www.hackerrank.com/profile/hi_alam1740" target="_blank">hi_alam1740</a></li>
-</ul>
+## 🌐 Connect With Me
 
-<hr>
+<div align="center">
 
-<h2>🌱 Currently Working On</h2>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mahboob--alam01-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahboob-alam01)
+[![LeetCode](https://img.shields.io/badge/LeetCode-MahboobAlam-ffa116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/MahboobAlam/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-hi__alam1740-00ea64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/hi_alam1740)
+[![Gmail](https://img.shields.io/badge/Gmail-hi.alam1740@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi.alam1740@gmail.com)
 
-<ul>
-<li>Diving into AI & Machine Learning</li>
-<li>Strengthening DSA and analytical thinking</li>
-<li>Building intelligent, real-world projects</li>
-</ul>
+</div>
 
-<hr>
+---
 
-<h2>🌐 Connect With Me</h2>
+<div align="center">
 
-<ul>
-<li>💼 LinkedIn: <a href="https://linkedin.com/in/mahboob-alam01" target="_blank">mahboob-alam01</a></li>
-<!-- <li>🐙 <a href="https://github.com/ha-re-ram">GitHub</a></li> -->
-</ul>
+![Profile Views](https://komarev.com/ghpvc/?username=hi-alam01&style=flat-square&color=58a6ff&label=Profile+Views)
 
-<hr>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=100&section=footer" />
 
-<h2>📫 Contact</h2>
-
-<ul>
-<li>📧 Personal: <a href="mailto:hi.alam1740@gmail.com">hi.alam1740@gmail.com</a></li>
-<li>🎓 Academic: <a href="mailto:23ee028@kpriet.ac.in">23ee028@kpriet.ac.in</a></li>
-<li>📱 Contact: <a href="tel:+919651979519">+91 9651979519</a></li>
-</ul>
-
-<hr>
-
-<p><b>⭐️ “Clean code. Clear thinking. Consistent growth.”</b></p>
+</div>
