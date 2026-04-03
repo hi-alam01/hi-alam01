@@ -109,7 +109,7 @@
 <ul>
 <li>📧 Personal: <a href="mailto:hi.alam1740@gmail.com">hi.alam1740@gmail.com</a></li>
 <li>🎓 Academic: <a href="mailto:23ee028@kpriet.ac.in">23ee028@kpriet.ac.in</a></li>
-<li>📱 Contact: <a href="tel:+919651979519">Call / WhatsApp</a></li>
+<li>📱 Contact: <a href="tel:+919651979519">+91 9651979519</a></li>
 </ul>
 
 <hr>
