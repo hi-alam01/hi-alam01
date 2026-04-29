@@ -21,7 +21,7 @@
 Name       : Mahboob Alam
 Education  : B.E. Electrical & Electronics Engineering
 College    : KPR Institute of Engineering and Technology, Tamil Nadu
-Year       : 3rd Year (2023 Batch)
+Year       : 3rd Year (2023-2027 Batch)
 Interests  : [ AI/ML, Embedded Systems, DSA, Web Development ]
 languages  : [ Python, C++, HTML, CSS ]
 ```
